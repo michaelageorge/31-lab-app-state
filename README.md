@@ -6,7 +6,7 @@
 ### Author: Michael George, Code 401d28
 
 ### Links and Resources
-* [Assignment 1: Connect to a Store (sandbox-link)](https://codesandbox.io/s/2o93xo9lmp)
+* [Assignment 1: Connect to a Store (sandbox-link)](https://codesandbox.io/s/4wq9vm8pq0)
 * [Assignment 2: Create a New Reducer (sandbox-link)](https://codesandbox.io/s/2o93xo9lmp)
 * [repo](https://github.com/michaelageorge/31-lab-app-state)
 * [travis](http://xyz.com)
@@ -33,4 +33,5 @@
 * This displays how the app components link up and connect with each other.
 
 ### Help and Credit
-* _null_
+* Brent Woodward
+* Jared Pattison
